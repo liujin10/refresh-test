@@ -22,7 +22,7 @@ export default function Page({ data }: PageProps<Data>) {
     <div>
       <form>
         <input type="text" name="q" value={query} />
-        <button type="submit">Search</button>
+        <button type="submit">Searchlll </button>
       </form>
       <ul>
         {results.map((name) => (
